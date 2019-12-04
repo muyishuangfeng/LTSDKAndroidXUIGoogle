@@ -1,0 +1,2 @@
+include  ':LTSDKAndroidXUIGoogle'
+rootProject.name='LTGameSDKUIGoogle'
